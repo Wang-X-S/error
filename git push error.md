@@ -27,6 +27,7 @@ To github.com:harrywangxs/blog-text-1.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 1. 上午准备上传文件练手，但是出现我的本地上传地址是别人的frankfang不会配置，只能把软装重装
-到现在也没有找到原因，找到后更新
+
+* [解决办法](https://blog.csdn.net/sinat_33693619/article/details/84952591)
 
 2. 第二个问题下午上传时发现，原来是因为网络连接不稳定造成
