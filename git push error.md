@@ -5,7 +5,7 @@
 
 * 第一次上传时用的外网传送失败
 ```
-*82037@LAPTOP-F04MEID7 ~/Desktop/ceshi (master)
+
 λ git push -u origin master
 ssh: connect to host github.com port 22: Connection timed out
 fatal: Could not read from remote repository.
@@ -14,7 +14,7 @@ and the repository exists.
 ```
 * 第二次把网络切回来，传送成功
 ```
-82037@LAPTOP-F04MEID7 ~/Desktop/ceshi (master)
+
 λ git push -u origin master
 Enumerating objects: 6, done.
 Counting objects: 100% (6/6), done.
